@@ -1,0 +1,6 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>x.png</file>
+    <file>o.png</file>
+</qresource>
+</RCC>
